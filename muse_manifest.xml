@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rishabkamshetty.com" resolutions="1x,2x" timestamp="1547683891438">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rishabkamshetty.com" resolutions="1x,2x" timestamp="1547702715672">
   <folder name="css">
     <file name="site_global.css" crc="530736148"/>
-    <file name="master_a-master.css" crc="3864547167" ref="index"/>
+    <file name="master_a-master.css" crc="120309537" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4133690850" ref="index"/>
-    <file name="nomq_index.css" crc="70493892" ref="index"/>
+    <file name="index.css" crc="235348306" ref="index"/>
+    <file name="nomq_index.css" crc="3956073112" ref="index"/>
     <file name="iefonts_index.css" crc="4095139297" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -41,14 +41,6 @@
     <file name="burning orange.jpg" crc="250764032" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rk.svg" crc="62596641" seo="true" ref="index">
-      <caption webpage="index" alt="RK Logo Circle"/>
-      <caption webpage="index" alt="RK Logo Circle"/>
-      <caption webpage="index" alt="RK Logo Circle"/>
-      <caption webpage="index" alt="RK Logo Circle"/>
-      <caption webpage="index" alt="RK Logo Circle"/>
-    </file>
-    <file name="rk_poster_.png" crc="511242089" ref="index"/>
     <file name="avatar.svg" crc="3921297159" seo="true" ref="index">
       <caption webpage="index" alt="SVG image avatar"/>
       <caption webpage="index" alt="SVG image avatar"/>
@@ -434,8 +426,12 @@
     <file name="pexels-photo-crop-u13520_2x3.jpg" crc="257894832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg-007-u8146-fr.jpg" crc="4185999208" ref="index"/>
-    <file name="bg-007-u8146-fr_2x.jpg" crc="4264236330" ref="index"/>
+    <file name="bg-0072.jpg" crc="4195618094" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-007_2x.jpg" crc="91674625" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="iphone-top-view-mockup-crop-u100644.jpg" crc="432148898" seo="true" ref="index">
       <caption webpage="index" alt="Mobile mockup, Vtiger 360 app"/>
     </file>
@@ -545,8 +541,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="123123-u8810-fr.jpg" crc="4278165794" ref="index"/>
-    <file name="bg-007-u8146-fr2.jpg" crc="3795898634" ref="index"/>
-    <file name="bg-007-u8146-fr_2x2.jpg" crc="4035536771" ref="index"/>
+    <file name="bg-007-u8146-fr.jpg" crc="3795898634" ref="index"/>
+    <file name="bg-007-u8146-fr_2x.jpg" crc="4035536771" ref="index"/>
     <file name="iphone-top-view-mockup-crop-u100645.jpg" crc="360535708" seo="true" ref="index">
       <caption webpage="index" alt="Mobile mockup, Vtiger 360 app"/>
     </file>
@@ -644,5 +640,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="428333260" seo="true" mt="1547683730721" redirect="true"/>
+  <file name="index.html" crc="120787400" seo="true" mt="1547699826263" redirect="true"/>
 </manifest>
